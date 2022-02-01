@@ -14,7 +14,6 @@ package frc.robot;
  */
 public final class Constants {
 
-    int random = 0;
 
 
 }
