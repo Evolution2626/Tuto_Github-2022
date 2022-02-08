@@ -14,6 +14,20 @@ package frc.robot;
  */
 public final class Constants {
 
+    public interface CAN{
 
+        int MOTEUR_AVANT_DROIT = 0;
+        int MOTEUR_AVANT_GAUCHE = 0;
+        int MOTEUR_ARRIERE_DROIT = 0;
+        int MOTEUR_ARRIERE_GAUCHE = 0;
+
+
+    }
+
+    public interface USB{
+
+        int DRIVER_GAMEPAD = 0;
+
+    }
 
 }
